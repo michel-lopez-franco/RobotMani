@@ -1,4 +1,4 @@
 
 def mul(a,b):
-    retun a+b
+    return a+b+c
     
